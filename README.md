@@ -4,7 +4,7 @@
 
 ## 기술
 
-Python · OpenCV · MediaPipe · NumPy · TensorFlow/Keras · Git
+Python · OpenCV  · TensorFlow/Keras · Git
 
 ## 대표 프로젝트
 
@@ -15,4 +15,4 @@ Python · OpenCV · MediaPipe · NumPy · TensorFlow/Keras · Git
 
 ## 연락
 
-GitHub [hyunjin0101](https://github.com/hyunjin0101) · 포트폴리오 PDF *(준비 중)*
+GitHub [hyunjin0101](https://github.com/hyunjin0101) 
